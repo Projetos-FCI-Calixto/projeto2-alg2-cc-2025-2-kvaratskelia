@@ -2,8 +2,8 @@
 # Algoritmos e Programação 2
 ## Projeto 2
 
-nomes:
-Gabriel valieri RA: 10736421
+Nomes:
+Gabriel Valieri RA: 10736421
 Enzo Bueno RA: 10737959
 
 
